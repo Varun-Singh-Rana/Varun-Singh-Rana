@@ -51,6 +51,3 @@ src="https://img.shields.io/github/followers/Varun-Singh-Rana?logo=github&style=
 
 <a href="https://github.com/Varun-Singh-Rana" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Varun-Singh-Rana&langs_count=10&title_color=0891b2&text_color=3382ed&icon_color=0891b2&bg_color=171717&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
-<div>
-  <img src="https://profile-counter.glitch.me/Varun-Singh-Rana/count.svg?"  />
-</div>
