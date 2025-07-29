@@ -7,7 +7,7 @@ Frontend Developer
 Hi, I am 3rd year Bachelor of Computer Application student at Graphic Era University with Specialization of AI and Data Science
 
 * 🌍  I'm based in Dehradun, Uttarakhand
-* ✉️  You can contact me at [varunsinghrana089@gmail.com](mailto:varunsinghrana089@gmail.com)
+* ✉️  You can contact me at [varunrana089@gmail.com](mailto:varunrana089@gmail.com)
 * 🧠  I'm learning Bachelor of Computer Application Ai and Ds
 
 <a href="https://www.github.com/Varun-Singh-Rana" target="_blank" rel="noreferrer"><img
