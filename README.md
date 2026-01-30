@@ -24,17 +24,12 @@ src="https://img.shields.io/github/followers/Varun-Singh-Rana?logo=github&style=
 
 <p align="left"> </picture> </a> <a href="https://www.linkedin.com/in/varun-singh-rana/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
 
-### Badges          
 
 <b>My GitHub Stats</b>
 
 <a href="http://www.github.com/Varun-Singh-Rana"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Varun-Singh-Rana&stroke=3382ed&background=171717&ring=0891b2&fire=0891b2&currStreakNum=3382ed&currStreakLabel=0891b2&sideNums=3382ed&sideLabels=3382ed&dates=3382ed&hide_border=true" /></a>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Varun-Singh-Rana/Varun-Singh-Rana/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Varun-Singh-Rana/Varun-Singh-Rana/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Varun-Singh-Rana/Varun-Singh-Rana/output/pacman-contribution-graph.svg">
-</picture>
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
 
 <a href="https://github.com/Varun-Singh-Rana" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Varun-Singh-Rana&langs_count=10&title_color=0891b2&text_color=3382ed&icon_color=0891b2&bg_color=171717&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
