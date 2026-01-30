@@ -1,3 +1,7 @@
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
+</div>
+
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Varun Singh Rana
 ========================================================================================================================================
 
@@ -30,8 +34,6 @@ src="https://img.shields.io/github/followers/Varun-Singh-Rana?logo=github&style=
 <a href="http://www.github.com/Varun-Singh-Rana"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Varun-Singh-Rana&stroke=3382ed&background=171717&ring=0891b2&fire=0891b2&currStreakNum=3382ed&currStreakLabel=0891b2&sideNums=3382ed&sideLabels=3382ed&dates=3382ed&hide_border=true" /></a>
 
 <img src="https://raw.githubusercontent.com/Varun-Singh-Rana/Varun-Singh-Rana/output/snake.svg" alt="Snake animation" />
-
-<a href="https://github.com/Varun-Singh-Rana" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Varun-Singh-Rana&langs_count=10&title_color=0891b2&text_color=3382ed&icon_color=0891b2&bg_color=171717&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 <div>
   <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
