@@ -14,8 +14,6 @@ Hi, I am 3rd year Bachelor of Computer Application student at Graphic Era Univer
 * ✉️  You can contact me at [varunrana089@gmail.com](mailto:varunrana089@gmail.com)
 * 🧠  I'm learning Bachelor of Computer Application Ai and Ds
 
-<a href="https://www.github.com/Varun-Singh-Rana" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/Varun-Singh-Rana?logo=github&style=for-the-badge&color=0891b2&labelColor=171717" /></a>
 <div>
   <img src="https://visitor-badge.laobi.icu/badge?page_id=Varun-Singh-Rana.Varun-Singh-Rana&"  />
 </div>
