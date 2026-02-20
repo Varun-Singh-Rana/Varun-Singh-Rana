@@ -8,7 +8,9 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Frontend Developer
 ------------------
 
-Hi, I am 3rd year Bachelor of Computer Application student at Graphic Era University with Specialization of AI and Data Science
+Hi, I am 3rd year student at Graphic Era University with Specialization of AI and Data Science. Building real-world desktop & full-stack apps with Node.js, Python, and Electron.
+Creator of SyncForge task scheduler, EcoWatch biodiversity monitor, and Mira AI desktop companion using Ollama.
+Passionate about AI, offline-first software, Raspberry Pi projects, and practical tools that solve real problems.
 
 * 🌍  I'm based in Dehradun, Uttarakhand
 * ✉️  You can contact me at [varunrana089@gmail.com](mailto:varunrana089@gmail.com)
