@@ -31,7 +31,9 @@ Passionate about AI, offline-first software, Raspberry Pi projects, and practica
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/Varun-Singh-Rana"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Varun-Singh-Rana&stroke=3382ed&background=171717&ring=0891b2&fire=0891b2&currStreakNum=3382ed&currStreakLabel=0891b2&sideNums=3382ed&sideLabels=3382ed&dates=3382ed&hide_border=true" /></a>
+![](https://github-readme-stats.shion.dev/api?username=Varun-Singh-Rana&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=Varun-Singh-Rana&theme=midnight-purple&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=Varun-Singh-Rana&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 <img src="https://raw.githubusercontent.com/Varun-Singh-Rana/Varun-Singh-Rana/output/snake.svg" alt="Snake animation" />
 
