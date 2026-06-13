@@ -14,7 +14,6 @@ Passionate about AI, offline-first software, Raspberry Pi projects, and practica
 
 * 🌍  I'm based in Dehradun, Uttarakhand
 * ✉️  You can contact me at [varunrana089@gmail.com](mailto:varunrana089@gmail.com)
-* 🧠  I'm student at Graphic Era University, Dehradun
 
 <div>
   <img src="https://visitor-badge.laobi.icu/badge?page_id=Varun-Singh-Rana.Varun-Singh-Rana&"  />
